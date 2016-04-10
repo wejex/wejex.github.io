@@ -1,21 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Chengqi Liu
-email: 1@wejex.me
-description: >
-  Freedom is not free
-baseurl: "/material-jekyll-theme"
-url: "http://wejex.me"
-fixedNav: 'true' # true or false
-theme: blue # green, blue, orange, purple, grey
-twitterUsername: hybrid_alex
-githubUsername: alexcarpenter
-dribbbleUsername:
-codepenUsername:
+title: Gravity
+email: hemangsk@gmail.com
+description: ramblings of a wanderer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: hemang_kumar
+github_username:  hemangsk
 
 # Build settings
-permalink: /:year/:month/:title
 markdown: kramdown
-include: [_pages]
-exclude: [_site, CHANGELOG.md, LICENSE, README.md]
-sass:
-  style: compressed
